@@ -24,3 +24,12 @@ This repository is where I play around with Quantum Programming, especially by u
    - Constraints are satisfied at thier minimum values
 
 3. Combine our objective and constraints.
+
+## Setup environment
+
+1. Create an env
+2. Install Ocean into the env you just created.
+   `pip install dwave-ocean-sdk`
+3. Type `dwave setup` to setup a config file.
+
+For more details, see the [Ocean documentation](https://docs.ocean.dwavesys.com/en/stable/overview/install.html)
